@@ -26,11 +26,14 @@ This entire section will be dedicated to laboratory studies of Data Analysis, wi
 
 ## 2. Laboratories
 
-- [x] **Lab 01:** Loading methods, offered by RStudio, of large sets of data with memory management to increase performance in the analysis process.
-    - Study of the increase in temperatures over the years in 3 Brazilian cities: Recife, Curitiba and Palmas.
+- [x] **Lab 01:** Memory management, RStudio, for loading large datasets
+
 
 - [x] **Lab 02:** Analytics Web App for Big Data
-    - How PIB and Social Inequality Influence Netflix's Growth
+
+    
+- [x] **Lab 03:** Markket Basket Analysis
+
 
  
 ***
