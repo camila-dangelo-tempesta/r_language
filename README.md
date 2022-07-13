@@ -26,7 +26,7 @@ This entire section will be dedicated to laboratory studies of Data Analysis, wi
 
 ## 2. Laboratories
 
-- [x] **Lab 01:** Loading 8.5 Million Records in Less than 5 seconds
+- [x] **Lab 01:** Memory management, RStudio, for loading large datasets
 
 
 - [x] **Lab 02:** Analytics Web App for Big Data
