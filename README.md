@@ -33,7 +33,7 @@ This entire section will be dedicated to laboratory studies of Data Analysis, wi
     
    * **Project:** Study of the increase in world temperatures over the years. Where, I have the evolution of temperatures in 3 Brazilian cities: Recife, Curitiba and Palmas.
    
-   <div align="center">
+<div align="center">
 <p float="left">
     <img src="/Lab_01/images/recife.png" width="500" height="200"/>
     <img src="/Lab_01/images/curitiba.png" width="500" height="200"/>
@@ -48,7 +48,7 @@ This entire section will be dedicated to laboratory studies of Data Analysis, wi
     
    * **Project:** How Does PIB and Social Inequality Influence Netflix's Growth?
     
-       <div align="center">
+<div align="center">
 <p float="left">
     <img src="/Lab_02/images/tamanho_catálogo.png" width="500" height="150"/>
     <img src="/Lab_02/images/assinantes.png" width="500" height="150"/>
@@ -63,9 +63,8 @@ This entire section will be dedicated to laboratory studies of Data Analysis, wi
 
    * **Scopo:** In this project, the objective is to work with a mining technique of data, Market Basket Analysis
     
-   * **Project:** 
     
-    <div align="center">
+<div align="center">
 <p float="left">
     <img src="/Lab_03/images/plot_1.png" width="500" height="200"/>
     <img src="/Lab_03/images/plot_2.png" width="500" height="200"/>
