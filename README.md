@@ -32,7 +32,7 @@ This entire section will be dedicated to laboratory studies of Data Analysis, wi
 - [x] **Lab 02:** Analytics Web App for Big Data
 
     
-- [x] **Lab 03:** Data Science in Retail with Market Basket Analysis
+- [x] **Lab 03:** Markket Basket Analysis
 
 
  
