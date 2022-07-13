@@ -32,3 +32,10 @@ This entire section will be dedicated to laboratory studies of Data Analysis, wi
   - How Does PIB and Social Inequality Influence Netflix's Growth?
 
  
+***
+Made By **Camila D'Angelo**
+
+- 🔭 I’m currently working on DS community
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me: 
+[LinkeldIn](https://www.linkedin.com/in/camiladangelotempesta/)
