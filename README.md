@@ -57,15 +57,22 @@ This entire section will be dedicated to laboratory studies of Data Analysis, wi
     <img src="/Lab_02/images/desigualdade_salarial.png" width="500" height="150"/>
 </p>
 </div>
-    
-    
-<video src='' width=180/>
-    
+   
   ***  
-- [x] **Lab 03:** Markket Basket Analysis
+- [x] **Lab 03:** Data Science in Retail with Market Basket Analysis
 
+   * **Scopo:** In this project, the objective is to work with a mining technique of data, Market Basket Analysis
+    
+   * **Project:** 
+    
+    <div align="center">
+<p float="left">
+    <img src="/Lab_03/images/plot_1.png" width="500" height="200"/>
+    <img src="/Lab_03/images/plot_2.png" width="500" height="200"/>
+    <img src="/Lab_03/images/plot_3.png" width="500" height="200"/>
+</p>
+</div>
 
- 
 ***
 Made By **Camila D'Angelo**
 
