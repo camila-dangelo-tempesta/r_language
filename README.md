@@ -26,12 +26,42 @@ This entire section will be dedicated to laboratory studies of Data Analysis, wi
 
 ## 2. Laboratories
 
+***
 - [x] **Lab 01:** Memory management, RStudio, for loading large datasets
 
+   * **Scopo:** In this project, the objective is to work with the memory manager offered by RStudio, in order to load a large set of data for then establish a high performance analysis process.
+    
+   * **Project:** Study of the increase in world temperatures over the years. Where, I have the evolution of temperatures in 3 Brazilian cities: Recife, Curitiba and Palmas.
+   
+   <div align="center">
+<p float="left">
+    <img src="/Lab_01/images/recife.png" width="500" height="200"/>
+    <img src="/Lab_01/images/curitiba.png" width="500" height="200"/>
+    <img src="/Lab_01/images/palmas.png" width="500" height="200"/>
+</p>
+</div>
 
+***
 - [x] **Lab 02:** Analytics Web App for Big Data
 
+     * **Scopo:** In this project, the objective is to work with data from 7 different sources, clean, organize and combine this data, and then build an analytical dashboard web app to understand the relationship between Netflix's revenue and PIB and social inequality indicators for each country where Netflix operates, in addition to other analyzes
     
+   * **Project:** How Does PIB and Social Inequality Influence Netflix's Growth?
+    
+       <div align="center">
+<p float="left">
+    <img src="/Lab_02/images/tamanho_catálogo.png" width="500" height="150"/>
+    <img src="/Lab_02/images/assinantes.png" width="500" height="150"/>
+    <img src="/Lab_02/images/generos_populares.png" width="500" height="150"/>
+    <img src="/Lab_02/images/faturamento.png" width="500" height="150"/>
+    <img src="/Lab_02/images/desigualdade_salarial.png" width="500" height="150"/>
+</p>
+</div>
+    
+    
+<video src='' width=180/>
+    
+  ***  
 - [x] **Lab 03:** Markket Basket Analysis
 
 
