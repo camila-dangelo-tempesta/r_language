@@ -20,19 +20,24 @@ It can be used for a variety of activities, such as:
 * Machine Learning
 * Data Visualization
 
-## 1. Business Problem.
+## 1. Challenge
 
 This entire section will be dedicated to laboratory studies of Data Analysis, with real and public data, using R language. In this context I intend to address several business problems in order to solve them improving my technical skills.
 
 ## 2. Laboratories
 
-***
-- [x] **Lab 01:** Memory management, RStudio, for loading large datasets
+|               | **Project**        | **Scopo**                                | **Business Question**           |
+|:--------------|:-------------------|:-----------------------------------------|:--------------------------------|
+| **Lab_01**    |                    | In this project, the objective is to work with the memory manager offered by RStudio, in order to load a large set of data for then establish a high performance analysis process.                                          | Study of the increase in world temperatures over the years. Where, I have the evolution of temperatures in 3 Brazilian cities: Recife, Curitiba and Palmas. |
+| **Lab_02**    | Analytics Web App for Big Data            | In this project, the objective is to work with data from 7 different sources, clean, organize and combine this data, and then build an analytical dashboard web app to understand the relationship between Netflix's revenue and PIB and social inequality indicators for each country where Netflix operates, in addition to other analyzes                                         | How Does PIB and Social Inequality Influence Netflix's Growth?                            |
+| **Lab_03**    | Data Science in Retail with Market Basket Analysis            | In this project, the objective is to work with a mining technique of data, Market Basket Analysis                                                          |
+| **Lab_04**    |             |                                          |                             |
+| **Lab_05**    |             |                                          |                            |
 
-   * **Scopo:** In this project, the objective is to work with the memory manager offered by RStudio, in order to load a large set of data for then establish a high performance analysis process.
+## 3. Results
+
+- [x] **Lab 01:** 
     
-   * **Project:** Study of the increase in world temperatures over the years. Where, I have the evolution of temperatures in 3 Brazilian cities: Recife, Curitiba and Palmas.
-   
 <div align="center">
 <p float="left">
     <img src="/Lab_01/images/recife.png" width="500" height="200"/>
@@ -42,11 +47,7 @@ This entire section will be dedicated to laboratory studies of Data Analysis, wi
 </div>
 
 ***
-- [x] **Lab 02:** Analytics Web App for Big Data
-
-     * **Scopo:** In this project, the objective is to work with data from 7 different sources, clean, organize and combine this data, and then build an analytical dashboard web app to understand the relationship between Netflix's revenue and PIB and social inequality indicators for each country where Netflix operates, in addition to other analyzes
-    
-   * **Project:** How Does PIB and Social Inequality Influence Netflix's Growth?
+- [x] **Lab 02:** 
     
 <div align="center">
 <p float="left">
@@ -58,11 +59,7 @@ This entire section will be dedicated to laboratory studies of Data Analysis, wi
 </p>
 </div>
    
-  ***  
-- [x] **Lab 03:** Data Science in Retail with Market Basket Analysis
-
-   * **Scopo:** In this project, the objective is to work with a mining technique of data, Market Basket Analysis
-    
+- [x] **Lab 03:** 
     
 <div align="center">
 <p float="left">
