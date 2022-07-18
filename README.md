@@ -50,11 +50,11 @@ This entire section will be dedicated to laboratory studies of Data Analysis, wi
     
 <div align="center">
 <p float="left">
-    <img src="/Lab_02/images/tamanho_catálogo.png" width="500" height="150"/>
-    <img src="/Lab_02/images/assinantes.png" width="500" height="150"/>
-    <img src="/Lab_02/images/generos_populares.png" width="500" height="150"/>
-    <img src="/Lab_02/images/faturamento.png" width="500" height="150"/>
-    <img src="/Lab_02/images/desigualdade_salarial.png" width="500" height="150"/>
+    <img src="/Lab_02/images/tamanho_catálogo.png" width="500" height="200"/>
+    <img src="/Lab_02/images/assinantes.png" width="500" height="200"/>
+    <img src="/Lab_02/images/generos_populares.png" width="500" height="200"/>
+    <img src="/Lab_02/images/faturamento.png" width="500" height="200"/>
+    <img src="/Lab_02/images/desigualdade_salarial.png" width="500" height="200"/>
 </p>
 </div>
    
@@ -74,7 +74,7 @@ This entire section will be dedicated to laboratory studies of Data Analysis, wi
     
 <div align="center">
 <p float="left">
-    <img src="/Lab_04/images/segmentacao.png" width="500" height="350"/>
+    <img src="/Lab_04/images/segmentacao.png" width="500" height="200"/>
 </p>
 </div>
 
