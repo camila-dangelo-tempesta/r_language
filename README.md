@@ -34,6 +34,13 @@ This entire section will be dedicated to laboratory studies of Data Analysis, wi
 | **Lab_04**    | Customer Segmentation Based on RFM Analysis (Recence, Frequency and Monetary Value) | In this project the objective was objective is to offer a more assertive and personalized communication to customers,improving their experience and delivering relevant value to them|I working with Machine Learning for customer segmentation. Where, we first apply the RFM Analysis (Recence, Frequency and Monetary Value) and from this analysis we segment and group customers by similarity, thus helping the Marketing or Sales area to personalize the customers' shopping experience | UCI: https://lnkd.in/grxGyvac|
 | **Lab_05**    |             |                                          |                            |
 
+## 2. Case Study
+
+|               | **Project**        | **Scopo**                                | **Dataset**          | 
+|:--------------|:-------------------|:-----------------------------------------|:---------------------|
+| **Case Study**    | Web Scraping| In this project, ta web scraping was performed from the NY Times website. Where the author makes a survey of discrepancies in the speeches made by the former president of the United States Donald Trump | NY Times: https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html |
+
+
 ## 3. Results
 
 - [x] **Lab 01:** 
