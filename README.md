@@ -38,7 +38,7 @@ This entire section will be dedicated to laboratory studies of Data Analysis, wi
 
 |               | **Project**        | **Scopo**                                | **Dataset**          | 
 |:--------------|:-------------------|:-----------------------------------------|:---------------------|
-| **Case Study**    | Web Scraping| In this project, ta web scraping was performed from the NY Times website. Where the author makes a survey of discrepancies in the speeches made by the former president of the United States Donald Trump | [NYTimes](https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html) |
+| **Case Study**    | Web Scraping| In this project, ta web scraping was performed from the NY Times website. Where the author makes a survey of discrepancies in the speeches made by the former president of the United States Donald Trump | [NYTimes](https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html)|
 
 
 ***
